@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error involving undefined behavior when using pointers to access elements of a std::vector after modifying its size. The bug.cpp file shows the erroneous code. The bugSolution.cpp file provides a corrected version.
